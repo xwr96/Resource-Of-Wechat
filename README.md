@@ -5,4 +5,7 @@
 ## 历史文章
 [独家整理的神奇](https://mp.weixin.qq.com/s/rxJ5G2be9nPhTaIM4CfHbg)\
 [计算机视觉好书推荐](https://mp.weixin.qq.com/s/DxYypI6j8rgw9a8ZADO_qw)\
-[python官方文档](https://mp.weixin.qq.com/s/z-sVMQy3nAUsn0anCfmnpg)
+[python官方文档](https://mp.weixin.qq.com/s/z-sVMQy3nAUsn0anCfmnpg)\
+[机器学习概念了解](https://mp.weixin.qq.com/s/nUwwMnRkNSw9UalBZH3N6A)\
+[只需10分钟，开启你的机器学习之路](https://mp.weixin.qq.com/s/r7--S_Vc93hdreU86B5v-Q)\
+[计算机等级考试交流群成立啦](https://mp.weixin.qq.com/s/a4j8bFxiuMJIHtubXjO3lQ)
