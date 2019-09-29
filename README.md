@@ -12,3 +12,10 @@
 
 ## 最后
 如果觉得我的分享对你有用，那么就Star一下吧～同时，也欢迎大家关注我的微信公众号：**计算机视觉cv**。我会一如既往发布更多更好的文章给大家！一起学习，共同进步！
+
+
+![](https://github.com/xwr96/Resource-Of-Wechat/blob/master/Figure/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+## 个人主页
+[我的CSDN博客](https://blog.csdn.net/xiewenrui1996)\
+[我的知乎](https://www.zhihu.com/people/xie-wen-1-90/activities)\
+我的微信公众号：计算机视觉cv
