@@ -12,7 +12,7 @@
 
 ## 国内不错的计算机视觉团队
 **清华大学**\
-[张钹（科学院院士）](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html)
+[张钹（科学院院士）](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html)\
 [朱军](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 ## 最后
