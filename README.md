@@ -8,7 +8,18 @@
 [python官方文档](https://mp.weixin.qq.com/s/z-sVMQy3nAUsn0anCfmnpg)\
 [机器学习概念了解](https://mp.weixin.qq.com/s/nUwwMnRkNSw9UalBZH3N6A)\
 [只需10分钟，开启你的机器学习之路](https://mp.weixin.qq.com/s/r7--S_Vc93hdreU86B5v-Q)\
-[计算机等级考试交流群成立啦](https://mp.weixin.qq.com/s/a4j8bFxiuMJIHtubXjO3lQ)
+[计算机等级考试交流群成立啦](https://mp.weixin.qq.com/s/a4j8bFxiuMJIHtubXjO3lQ)\
+
+## OpenCV系列
+[opencv系列学习之一](https://mp.weixin.qq.com/s/5rBNoVCJta9S9yLmLIFF9g)\
+[OpenCV系列学习之二](https://mp.weixin.qq.com/s/lt6xhAPUhpafpT9pmMfUUA)\
+[OpenCV系列学习之三](https://mp.weixin.qq.com/s/Cd7HS_Dxza_I0NmfH5NUag)\
+[OpenCV系列学习之四](https://mp.weixin.qq.com/s/ppj9nT6JkzA6lfd1vU5pUw)\
+[OpenCV系列学习之五](https://mp.weixin.qq.com/s/57UYcQrBib-pZXGrZEUd4g)\
+[opencv系列学习之六](https://mp.weixin.qq.com/s/SVtp93ZiXO-WZG7AGZqrIQ)
+
+## python学习系列
+
 
 ## 国内不错的计算机视觉团队
 **清华大学**\
