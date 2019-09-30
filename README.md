@@ -9,7 +9,11 @@
 [机器学习概念了解](https://mp.weixin.qq.com/s/nUwwMnRkNSw9UalBZH3N6A)\
 [只需10分钟，开启你的机器学习之路](https://mp.weixin.qq.com/s/r7--S_Vc93hdreU86B5v-Q)\
 [计算机等级考试交流群成立啦](https://mp.weixin.qq.com/s/a4j8bFxiuMJIHtubXjO3lQ)\
-
+[一文读懂数据结构和算法](https://mp.weixin.qq.com/s/szdNMpPjwFE2BEvWuIx5qw)\
+[卷积神经网络](https://mp.weixin.qq.com/s/Sl0KAZ1FvQrGAKSKkf_B5w)\
+[贵州之行的一二事](https://mp.weixin.qq.com/s/00EkX_QajFPq9NnIAGwXGg)\
+[不懂这些技巧别说你用过百度(文末有惊喜)](https://mp.weixin.qq.com/s/JH-i1aF8x76_Zo-N9_w2lw)\
+[详解OpenCV卷积滤波之边缘处理与锚定输出](https://mp.weixin.qq.com/s/Hr9V8mkLISJX0Oj7bh-OJw)
 ## OpenCV系列
 [opencv系列学习之一](https://mp.weixin.qq.com/s/5rBNoVCJta9S9yLmLIFF9g)\
 [OpenCV系列学习之二](https://mp.weixin.qq.com/s/lt6xhAPUhpafpT9pmMfUUA)\
@@ -19,8 +23,12 @@
 [opencv系列学习之六](https://mp.weixin.qq.com/s/SVtp93ZiXO-WZG7AGZqrIQ)
 
 ## python学习系列
-
-
+[Python笔记（一）](https://mp.weixin.qq.com/s/1SbaU1G-nwH_x-WR5CcVyQ)\
+[Python笔记（二）](https://mp.weixin.qq.com/s/Ge4t1BZImNJNGdVMUY_xGg)\
+[Python笔记（三）](https://mp.weixin.qq.com/s/0duOV8_DAPVbkK-8xA0ivQ)\
+[Python笔记（四）](https://mp.weixin.qq.com/s/p6Vc-ka5L9w7RW4I2UwaBA)\
+[Python笔记（五）](https://mp.weixin.qq.com/s/xC5PG5fr7tr2eLXmkxGRKA)\
+[Python3常用内置函数](https://mp.weixin.qq.com/s/zWmikIUleBn72MqTIQisMA)
 ## 国内不错的计算机视觉团队
 **清华大学**\
 [张钹（科学院院士）](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html)\
