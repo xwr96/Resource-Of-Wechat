@@ -29,10 +29,7 @@
 [Python笔记（四）](https://mp.weixin.qq.com/s/p6Vc-ka5L9w7RW4I2UwaBA)\
 [Python笔记（五）](https://mp.weixin.qq.com/s/xC5PG5fr7tr2eLXmkxGRKA)\
 [Python3常用内置函数](https://mp.weixin.qq.com/s/zWmikIUleBn72MqTIQisMA)
-## 国内不错的计算机视觉团队
-**清华大学**\
-[张钹（科学院院士）](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html)\
-[朱军](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
+
 
 ## 最后
 如果觉得我的分享对你有用，那么就Star一下吧～同时，也欢迎大家关注我的微信公众号：**计算机视觉cv**。我会一如既往发布更多更好的文章给大家！一起学习，共同进步！
