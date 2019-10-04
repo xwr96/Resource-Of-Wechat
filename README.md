@@ -13,7 +13,10 @@
 [卷积神经网络](https://mp.weixin.qq.com/s/Sl0KAZ1FvQrGAKSKkf_B5w)\
 [贵州之行的一二事](https://mp.weixin.qq.com/s/00EkX_QajFPq9NnIAGwXGg)\
 [不懂这些技巧别说你用过百度(文末有惊喜)](https://mp.weixin.qq.com/s/JH-i1aF8x76_Zo-N9_w2lw)\
-[详解OpenCV卷积滤波之边缘处理与锚定输出](https://mp.weixin.qq.com/s/Hr9V8mkLISJX0Oj7bh-OJw)
+[详解OpenCV卷积滤波之边缘处理与锚定输出](https://mp.weixin.qq.com/s/Hr9V8mkLISJX0Oj7bh-OJw)\
+[前端应该如何准备数据结构和算法](https://mp.weixin.qq.com/s/szdNMpPjwFE2BEvWuIx5qw)\
+[机器学习领域必知必会的12种概率分布（附Python代码实现）](https://mp.weixin.qq.com/s/xG8o2DH1nBkd4pd7NztKew)\
+[MIT华人团队实现“穿墙透视”！超强动作检测](https://mp.weixin.qq.com/s/yoUSIU34OBuGuIX52IPzog)
 ## OpenCV系列
 [opencv系列学习之一](https://mp.weixin.qq.com/s/5rBNoVCJta9S9yLmLIFF9g)\
 [OpenCV系列学习之二](https://mp.weixin.qq.com/s/lt6xhAPUhpafpT9pmMfUUA)\
