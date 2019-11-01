@@ -1,6 +1,6 @@
 # 计算机视觉、人工智能初学者公众号
 个人微信公众号的一些资源，包括代码、文档等，公众号二维码在Figure文件夹里面
-
+本仓库包含OpenCV学习、python、C++、算法等的学习笔记及知识详解。
 
 ## 历史文章
 [独家整理的神奇](https://mp.weixin.qq.com/s/rxJ5G2be9nPhTaIM4CfHbg)\
